@@ -4,7 +4,7 @@ public class DDD {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("DDD");
+		//System.out.println("DDD");
 	}
 
 }

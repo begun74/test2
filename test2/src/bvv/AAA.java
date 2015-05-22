@@ -1,12 +1,10 @@
 package bvv;
 
-public class XZZ {
+public class AAA {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("XZZ");
-		
-		System.out.println("XZZ");
+		System.out.println("AAA");
 	}
 
 }

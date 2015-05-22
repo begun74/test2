@@ -6,6 +6,7 @@ public class XZZ {
 		// TODO Auto-generated method stub
 		System.out.println("XZZ");
 		//System.out.println("XZZ");
+		System.out.println("XZZ");
 	}
 
 }
